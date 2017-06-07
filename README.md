@@ -1,4 +1,3 @@
 # apache
 
-TODO: Enter the cookbook description here.
-
+Segundo laboratorio del curso de automatización IT con CHEF
