@@ -16,5 +16,5 @@ describe port(80) do
 end
 
 describe command('curl localhost') do
-  its('stdout') { should match('Hello, world!') }
+  its('stdout') { should match('hostname') }
 end
